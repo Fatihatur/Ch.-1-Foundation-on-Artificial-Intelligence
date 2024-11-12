@@ -2,7 +2,7 @@ Berikut adalah struktur teks yang telah diubah:
 
 ---
 
-# Bab 1: Dasar Kecerdasan Buatan (Tugas Kelompok di Google Colab)
+# Bab 1: Foundation on Artificial Intelligence (team task at Google Colab only)
 
 ## Daftar Isi
 
